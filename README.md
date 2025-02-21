@@ -1,3 +1,5 @@
+# Public Disclosure
+
 **Wanderlust** is an AI-driven productivity and self-improvement platform that blends **dynamic habit tracking, celestial-themed gamification, and an interactive mentorship economy**. Designed to adapt to user behavior, Wanderlust turns personal growth into an immersive journey—leveling up skills, unlocking achievements, and fostering meaningful mentor-mentee connections.  
 
 **Key Features:**  
